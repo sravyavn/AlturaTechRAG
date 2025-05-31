@@ -1,0 +1,7 @@
+docling
+langchain
+langchain_groq
+python-dotenv
+transformers
+pinecone
+sentence_transformers
